@@ -150,7 +150,6 @@ location:
 
 <p id="contact">
   <strong>Contact</strong>:
-=======
 {% endif %}
 
 <h3>Requirements</h3>
