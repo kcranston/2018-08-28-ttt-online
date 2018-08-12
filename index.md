@@ -148,7 +148,6 @@ location:
   attempt to provide them.
 </p>
 
-<<<<<<< Updated upstream:index.md
 <p id="contact">
   <strong>Contact</strong>:
 =======
@@ -179,7 +178,6 @@ All participants are required to abide by The Carpentries <a href="https://docs.
 
 <h3 id="contact">Contact</h3>
 
->>>>>>> Stashed changes:index.html
   Please email
   {% if page.contact %}
     {% for contact in page.contact %}
