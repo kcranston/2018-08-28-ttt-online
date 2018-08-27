@@ -225,7 +225,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <h2 id="materials" name="materials">Training Materials and Schedule</h2>
 
 <p>
-  Please see <a href="{{ site.training_site }}">this site</a> for course material and tentative schedule.
+  Please see <a href="{{ site.training_site }}">this site</a> for course material and tentative schedule. Note that we will be taking our lunch break at noon to accomodate another training session for some participants at Jackson Lab. 
 </p>
 
 
